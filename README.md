@@ -22,11 +22,6 @@ This Smart Kitchen Safety System is designed to detect gas leakage and take imme
 - **DC Motor (Exhaust Fan)**: Turns on the exhaust fan using a relay.
 - **Arduino**: Controls all the components.
 
-## Circuit Diagram
-[Include a link to or image of your circuit diagram]
-
-## Code
-The Arduino code to control the system is available in the code directory. It reads the gas concentration from the MQ5 sensor and takes the necessary actions when gas leakage is detected.
 
 ## How to Use
 1. Connect the components as per the circuit diagram.
@@ -34,7 +29,3 @@ The Arduino code to control the system is available in the code directory. It re
 3. Power the system and monitor the LCD display for gas concentration levels.
 4. The system will automatically take action if a gas leakage is detected.
 
-## Project Setup
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/smart-kitchen-safety-system.git
